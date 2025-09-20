@@ -60,26 +60,27 @@ Modelacion-Matematica/
 
 ## ⚙️ Instalación rápida
 ```bash
-# Recomendado: entorno virtual
-python -m venv .venv
-# Windows
-.venv\Scripts\activate
-# macOS / Linux
-source .venv/bin/activate
-
-pip install -U pip
-pip install jupyter pulp numpy pandas matplotlib scipy
-# (Opcional) para grafos:
-# pip install networkx
-
-# Clonar
-git clone https://github.com/<tu-usuario>/Modelacion-Matematica.git
-cd Modelacion-Matematica
-
-# Arrancar Jupyter
-jupyter notebook
-# o
-jupyter lab
+  # Recomendado: entorno virtual
+  python -m venv .venv
+  # Windows
+  .venv\Scripts\activate
+  # macOS / Linux
+  source .venv/bin/activate
+  
+  pip install -U pip
+  pip install jupyter pulp numpy pandas matplotlib scipy
+  # (Opcional) para grafos:
+  # pip install networkx
+  
+  # Clonar
+  git clone https://github.com/<tu-usuario>/Modelacion-Matematica.git
+  cd Modelacion-Matematica
+  
+  # Arrancar Jupyter
+  jupyter notebook
+  # o
+  jupyter lab
+---
 
 ▶️ Cómo correr
 # Clonar
